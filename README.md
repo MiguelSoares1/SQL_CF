@@ -16,3 +16,7 @@ How do sales figures vary across different regions?
 Data Visualization: Techniques and tools for presenting analysis results in a clear and impactful manner for both management and technical stakeholders.
 
 Learning Objectives: Documentation of key learning goals achieved throughout the project, including SQL querying, data structuring, and effective presentation of findings.
+
+## Links for Tableau 
+https://public.tableau.com/app/profile/miguel.soares4118/viz/Exercise3_10Tableau/1stepof3_7?publish=yes
+https://public.tableau.com/app/profile/miguel.soares4118/viz/Exercise3_10part2_17258993028840/Average_rental_duration?publish=yes
